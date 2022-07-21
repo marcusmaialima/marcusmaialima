@@ -4,7 +4,7 @@ My name is Marcus Maia from Brazil. I've been working as Front-End and Mobile De
 
 In my free time I like to play on the computer, watch movies and anime, read books in kindle and practice meditation.
 
-Currently i'm studying mobile react native and reactjs development and i love javascript.
+I'm currently studying react, react native, remix and I'm love study javascript :)
 
 Would you like to find me?
 
