@@ -1,11 +1,5 @@
-### Hi there! 😁
+### Hello! 👋
 
-My name is Marcus Maia from Brazil. I've been working as Front-End. I have been working with development since the end of 2018 and I have participated in projects creating applications and web platforms.
+I'm **Marcus Maia**, a passionate software developer with **6 years of experience** crafting robust digital solutions. I specialize in building scalable, high-performance applications with meticulous attention to code quality and automated testing.
 
-In my free time I like to play on the computer, watch movies and anime, read books in kindle and practice meditation.
-
-I'm currently studying react, nextJS, remix and I'm love study  javascript :)
-
-Would you like to find me?
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/maiamarcusliima)
+💼 [Connect on LinkedIn](https://www.linkedin.com/in/maiamarcusliima/)
